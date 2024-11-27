@@ -1,0 +1,10 @@
+[package]
+name = "RustProject"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.0"
+meval = "0.2"
+image = "0.24.3"
+minifb = "0.22.0"
